@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "Greg",
+        "company": "123designs",
+        "phone": "0101010101"
+    },
+    {
+        "id": 2,
+        "name": "Dexter",
+        "company": "Spatter-Work",
+        "phone": "0101010101"
+    },{
+        "id": 1,
+        "name": "Raymond",
+        "company": "Nick's Pizza",
+        "phone": "0101010101"
+    }
+]
